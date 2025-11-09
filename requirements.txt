@@ -1,1 +1,7 @@
-trends_env
+pandas
+numpy
+ipykernel
+seaborn
+matplotlib
+psycopg2-binary
+sqlalchemy
